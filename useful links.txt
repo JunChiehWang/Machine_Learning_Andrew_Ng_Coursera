@@ -1,0 +1,9 @@
+sample problems or assignments I can use to practice the material from the course:
+CS 229 Machine Learning Course Materials
+http://cs229.stanford.edu/materials.html
+
+the notes from a previous version of the course
+https://class.coursera.org/ml-003/lecture
+
+The following notes represent a complete, stand alone interpretation of Stanford's machine learning course presented by Professor Andrew Ng and originally posted on the ml-class.org website during the fall 2011 semester. The topics covered are shown below, although for a more detailed summary see lecture 19. The only content not covered here is the Octave/MATLAB programming.
+http://www.holehouse.org/mlclass/
